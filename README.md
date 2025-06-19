@@ -12,14 +12,14 @@ You can find more details in my [**resume**](https://github.com/Teressa99/Teress
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
-  - [Intracranial Hemorrhage Detection Using Deep Learning](#1--intracranial-hemorrhage-detection-using-deep-learning)
+  - [Intracranial Hemorrhage Detection Using Deep Learning](#1-intracranial-hemorrhage-detection-using-deep-learning)
   - [Champion Bikes – Excel Dashboard & Sales Analysis](#2-champion-bikes--excel-dashboard--sales-analysis)
-  - [Walmart Sales Study – Slide-Based Market Analysis](#3-walmart-sales-study--slide-based-market-analysis)
+  - [Walmart Sales Study – Slide-Based Market Analysis](#3-walmart-sales-study)
   - [Social Determinants of Health – Public Health Research](#4-social-determinants-of-health--public-health-research)
 * [Skills & Tools](#skills--tools)
 * [Connect With Me](#connect-with-me)
 
-## 📁 Portfolio Projects
+## Portfolio Projects
 
 ### 🧠 1. Intracranial Hemorrhage Detection Using Deep Learning  
 **Description:** This project proposes a deep learning solution for early detection of intracranial hemorrhage, a time-sensitive medical emergency. Using CT scan image data, two supervised learning models were developed:  
