@@ -30,7 +30,7 @@ The goal was to accurately classify CT scans into hemorrhage types for faster di
 - **Tools & Technologies:** Python, CNN, Transfer Learning, AlexNet, Computer Vision, Medical Imaging  
 - **Files:** [`Final project_code.docx`](https://github.com/Teressa99/Teressa_Projects/blob/main/Final%20project_code.docx)  
   - [`Final_Thesis Report.pdf`](https://github.com/Teressa99/Teressa_Projects/blob/main/Final_Thesis%20Report.pdf)  
-  - [`final_PPT.pdf`]()
+  - [`final_PPT.pdf`](https://github.com/Teressa99/Teressa_Projects/blob/main/final_PPT.pdf)
 
 ---
 
@@ -56,7 +56,7 @@ The goal was to accurately classify CT scans into hemorrhage types for faster di
 **Description:** A presentation exploring how key social factors such as income, housing, employment, and education influence health outcomes across populations. Focused on accessibility, equity, and health awareness.
 
 - **Tools & Technologies:** Google Colab, Python, Public Health Research, Visual Storytelling  
-- **File:** [`Social Determinants of Health.pptx.pdf`](https://github.com/Teressa99/Teressa_Projects/blob/main/social%20determinants%20of%20health%20(1).pdf)
+- **File:** [`Social Determinants of Health.pptx.pdf`](https://github.com/Teressa99/Teressa_Projects/blob/main/social%20determinants%20of%20health%20(1).pdf) [CAPSTONE PROJECT 1.pdf](https://github.com/Teressa99/Teressa_Projects/blob/main/CAPSTONE%20PROJECT%20(1).pdf)
 
 
 ---
