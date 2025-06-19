@@ -73,5 +73,5 @@ The goal was to accurately classify CT scans into hemorrhage types for faster di
 ## Connect With Me
 
 - **📧 Email:** teressaalphonsadominic@gmail.com  
-- **🔗 LinkedIn:** [linkedin.com/in/your-profile](#) *(Add your link)*  
+- **🔗 LinkedIn:** [https://www.linkedin.com/in/teressadominic] 
 - **📍 Location:** Toronto, ON, Canada  
