@@ -12,14 +12,15 @@ You can find more details in my [**resume**](https://github.com/Teressa99/Teress
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
-  - [German cars data analysis](#german-cars-data-analysis) 
-  - [Adidas US sales data analysis](#adidas-us-sales-data-analysis)
-  - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
-* [Certificates](#certificates)
+  - [Intracranial Hemorrhage Detection Using Deep Learning  ](#Intracranial-Hemorrhage-Detection-Using-Deep-Learning  ) 
+  - [Champion Bikes – Excel Dashboard & Sales Analysis](#Champion-Bikes-–-Excel-Dashboard-&-Sales-Analysis)
+  - [Walmart Sales Study – Slide-Based Market Analysis](#walmart-sales-study-–-slide-based-market-analysis)
+  - [Social Determinants of Health](#Social-Determinants-of-Health)
+* [Skills & Tools](#Skills-&-Tools)
 * [Contacts](#contacts)
 ## 📁 Portfolio Projects
 
-### 🧠 1. Capstone Project – Intracranial Hemorrhage Detection Using Deep Learning  
+### 🧠 1. Intracranial Hemorrhage Detection Using Deep Learning  
 **Description:** This project proposes a deep learning solution for early detection of intracranial hemorrhage, a time-sensitive medical emergency. Using CT scan image data, two supervised learning models were developed:  
 - A transfer learning approach using **AlexNet**, and  
 - A **custom CNN architecture**.  
@@ -46,7 +47,7 @@ The goal was to accurately classify CT scans into hemorrhage types for faster di
 
 ---
 
-### 🌍 4. Social Determinants of Health – Public Health Research  
+### 🌍 4. Social Determinants of Health  
 **Description:** A presentation exploring how key social factors such as income, housing, employment, and education influence health outcomes across populations. Focused on accessibility, equity, and health awareness.
 
 - **Tools & Technologies:** Google Colab, Python, Public Health Research, Visual Storytelling  
