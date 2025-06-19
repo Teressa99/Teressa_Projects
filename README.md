@@ -28,7 +28,9 @@ You can find more details in my [**resume**](https://github.com/Teressa99/Teress
 The goal was to accurately classify CT scans into hemorrhage types for faster diagnosis and treatment support.
 
 - **Tools & Technologies:** Python, CNN, Transfer Learning, AlexNet, Computer Vision, Medical Imaging  
-- **Files:** `Final project_code.docx`, `Final_Thesis Report.pdf`, `final_PPT.pptx`
+- **Files:** [`Final project_code.docx`](https://github.com/Teressa99/Teressa_Projects/blob/main/Final%20project_code.docx)  
+  - [`Final_Thesis Report.pdf`](https://github.com/Teressa99/Teressa_Projects/blob/main/Final_Thesis%20Report.pdf)  
+  - [`final_PPT.pptx`](https://github.com/Teressa99/Teressa_Projects/blob/main/final_PPT.pptx)
 
 ---
 
@@ -36,7 +38,9 @@ The goal was to accurately classify CT scans into hemorrhage types for faster di
 **Description:** Developed an Excel-based dashboard to analyze and visualize customer orders, regional profits, product categories, and sales trends for Champion Bikes. Presented insights using Excel’s advanced functions and visual tools.
 
 - **Tools & Technologies:** Microsoft Excel, Pivot Tables, Power Query, Dashboarding  
-- **Files:** `teressa_Final excel project.xlsx`, `Champion Bikes_Teressa.pptx`
+- **Files:** [`teressa_Final excel project.xlsx`](https://github.com/Teressa99/Teressa_Projects/blob/main/teressa_Final%20excel%20project.xlsx)  
+  - [`Champion Bikes_Teressa.pptx`](https://github.com/Teressa99/Teressa_Projects/blob/main/Champion%20Bikes_Teressa.pptx)
+
 
 ---
 
@@ -44,7 +48,7 @@ The goal was to accurately classify CT scans into hemorrhage types for faster di
 **Description:** A case study presentation exploring Walmart’s sales performance, market segmentation, and product strategy. Focused on identifying key growth areas and visualizing trends.
 
 - **Tools & Technologies:** Tableau, Microsoft PowerPoint, Descriptive Analytics  
-- **File:** `walmart sales study.pptx`
+- **File:** [`walmart sales study.pptx`](https://github.com/Teressa99/Teressa_Projects/blob/main/walmart%20sales%20study.pptx)
 
 ---
 
@@ -52,7 +56,8 @@ The goal was to accurately classify CT scans into hemorrhage types for faster di
 **Description:** A presentation exploring how key social factors such as income, housing, employment, and education influence health outcomes across populations. Focused on accessibility, equity, and health awareness.
 
 - **Tools & Technologies:** Google Colab, Python, Public Health Research, Visual Storytelling  
-- **File:** `Red and Blue Simple Stickers Team Meeting Agenda Presentation.pptx.pptx`
+- **File:** [`Social Determinants of Health.pptx.pptx`](https://github.com/Teressa99/Teressa_Projects/blob/main/Red%20and%20Blue%20Simple%20Stickers%20Team%20Meeting%20Agenda%20Presentation.pptx.pptx)
+
 
 ---
 
