@@ -21,7 +21,7 @@ You can find more details in my [**resume**](https://github.com/Teressa99/Teress
 
 ## Portfolio Projects
 
-### Intracranial Hemorrhage Detection Using Deep Learning  
+### 1.Intracranial Hemorrhage Detection Using Deep Learning  
 **Description:** This project proposes a deep learning solution for early detection of intracranial hemorrhage, a time-sensitive medical emergency. Using CT scan image data, two supervised learning models were developed:  
 - A transfer learning approach using **AlexNet**, and  
 - A **custom CNN architecture**.  
