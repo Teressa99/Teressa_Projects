@@ -17,3 +17,54 @@ You can find more details in my [**resume**](https://github.com/Teressa99/Teress
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
+## 📁 Portfolio Projects
+
+### 🧠 1. Capstone Project – Intracranial Hemorrhage Detection Using Deep Learning  
+**Description:** This project proposes a deep learning solution for early detection of intracranial hemorrhage, a time-sensitive medical emergency. Using CT scan image data, two supervised learning models were developed:  
+- A transfer learning approach using **AlexNet**, and  
+- A **custom CNN architecture**.  
+The goal was to accurately classify CT scans into hemorrhage types for faster diagnosis and treatment support.
+
+- **Tools & Technologies:** Python, CNN, Transfer Learning, AlexNet, Computer Vision, Medical Imaging  
+- **Files:** `Final project_code.docx`, `Final_Thesis Report.pdf`, `final_PPT.pptx`
+
+---
+
+### 📊 2. Champion Bikes – Excel Dashboard & Sales Analysis  
+**Description:** Developed an Excel-based dashboard to analyze and visualize customer orders, regional profits, product categories, and sales trends for Champion Bikes. Presented insights using Excel’s advanced functions and visual tools.
+
+- **Tools & Technologies:** Microsoft Excel, Pivot Tables, Power Query, Dashboarding  
+- **Files:** `teressa_Final excel project.xlsx`, `Champion Bikes_Teressa.pptx`
+
+---
+
+### 🛒 3. Walmart Sales Study – Slide-Based Market Analysis  
+**Description:** A case study presentation exploring Walmart’s sales performance, market segmentation, and product strategy. Focused on identifying key growth areas and visualizing trends.
+
+- **Tools & Technologies:** Tableau, Microsoft PowerPoint, Descriptive Analytics  
+- **File:** `walmart sales study.pptx`
+
+---
+
+### 🌍 4. Social Determinants of Health – Public Health Research  
+**Description:** A presentation exploring how key social factors such as income, housing, employment, and education influence health outcomes across populations. Focused on accessibility, equity, and health awareness.
+
+- **Tools & Technologies:** Google Colab, Python, Public Health Research, Visual Storytelling  
+- **File:** `Red and Blue Simple Stickers Team Meeting Agenda Presentation.pptx.pptx`
+
+---
+
+## 🛠 Skills & Tools
+
+- **Languages & Analytics:** Python, SQL, Excel  
+- **Libraries/Tools:** Pandas, NumPy, CNN, AlexNet, Jupyter, Google Colab  
+- **Visualization:** Tableau, Power BI, Excel Dashboards, PowerPoint  
+- **Other:** Git & GitHub, Report Writing, Communication
+
+---
+
+## 📬 Connect With Me
+
+- **📧 Email:** teressaalphonsadominic@gmail.com  
+- **🔗 LinkedIn:** [linkedin.com/in/your-profile](#) *(Add your link)*  
+- **📍 Location:** Toronto, ON, Canada  
