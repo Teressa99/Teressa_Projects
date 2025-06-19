@@ -12,7 +12,7 @@ You can find more details in my [**resume**](https://github.com/Teressa99/Teress
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
-  - [Intracranial Hemorrhage Detection Using Deep Learning  ](#https://github.com/Teressa99/Teressa_Projects?tab=readme-ov-file#Intracranial-Hemorrhage-Detection-Using-Deep-Learning) 
+  - [**Intracranial Hemorrhage Detection Using Deep Learning ** ](#https://github.com/Teressa99/Teressa_Projects?tab=readme-ov-file#Intracranial-Hemorrhage-Detection-Using-Deep-Learning) 
   - [Champion Bikes – Excel Dashboard & Sales Analysis](#Champion-Bikes-–-Excel-Dashboard-&-Sales-Analysis)
   - [Walmart Sales Study – Slide-Based Market Analysis](#walmart-sales-study-–-slide-based-market-analysis)
   - [Social Determinants of Health](#Social-Determinants-of-Health)
