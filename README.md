@@ -8,7 +8,7 @@ With a strong foundation in digital marketing and financial data analysis, I spe
 
 This portfolio highlights my technical skills across tools such as Excel, SQL, Python, Power BI, and PowerPoint, along with my ability to communicate findings effectively. Whether it's cleaning messy data, building dashboards, or performing deep-dive analyses, I'm always excited to learn and explore new ways data can make an impact.
 
-You can find more details in my [**resume**](https://github.com/Teressa99/Teressa_Projects/blob/main/Teressa_Alphonsa_Dominic_resume.pdf).
+You can find more details in my [**resume**](https://github.com/Teressa99/Teressa_Projects/blob/main/Teressa%20Dominic_Resume.pdf).
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
